@@ -1,0 +1,7 @@
+[Nemo Action]
+Name=Open With Terminator
+Comment=Open With Terminator
+Exec=terminator --working-directory=%F
+Icon-Name=terminal
+Selection=Any
+Extensions=dir;

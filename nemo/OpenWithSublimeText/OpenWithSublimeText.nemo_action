@@ -1,0 +1,7 @@
+[Nemo Action]
+Name=Open With Sublime Text
+Comment=Open With Sublime Text
+Exec=subl "%F"
+Icon-Name=terminal
+Selection=Any
+Extensions=dir;

@@ -1,0 +1,7 @@
+[Nemo Action]
+Name=Open With VSCode
+Comment=Open With VSCode
+Exec=code "%F"
+Icon-Name=terminal
+Selection=Any
+Extensions=dir;
